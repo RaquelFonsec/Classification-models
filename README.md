@@ -55,5 +55,5 @@ Confusion Matrix for Digits 0-9:
 
 Confusion matrix is plotted to visualize model predictions for digits 0-9.
 Conclusion:
-Based on the analyses performed on both datasets, logistic regression shows promising results in classifying iris species and handwritten digits. The detailed README provides instructions for installing the project and outlines the steps and results of the analyses.
+Based on the analyses performed on both datasets, logistic regression shows promising results in classifying iris species and handwritten digits. 
 
